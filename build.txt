@@ -1,3 +1,0 @@
-displayName = ended's block mod
-author = ended
-version = 0.1.1
